@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import { EnvelopeIcon } from '@heroicons/react/24/outline'
 
 import { Container } from '@/components/Container'
 import { NavLinks } from '@/components/NavLinks'
@@ -30,6 +31,12 @@ export function Footer() {
                 <p className="mt-1 text-sm">One meme at a time! 🐾</p>
               </div>
             </div>
+            <p className="flex w-full items-center gap-2">
+              <EnvelopeIcon className="h-6 w-6 text-gray-400" />
+              <a href="mailto:snazzycattoken@gmail.com" className="text-sm">
+                snazzycattoken@gmail.com
+              </a>
+            </p>
             <nav className="mt-11 flex gap-8">
               <NavLinks />
             </nav>
