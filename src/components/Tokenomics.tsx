@@ -10,19 +10,19 @@ const features = [
   },
   {
     name: 'Tax',
-    description: '0 %',
+    description: '0%',
     icon: BankNoteIcon,
   },
+  // {
+  //   name: 'Presale',
+  //   description:
+  //     '30% of Total Supply - The funds raised from the presale will primarily finance the initial stages of the project, including liquidity provision and initial development efforts.',
+  //   icon: BankNoteIcon,
+  // },
   {
-    name: 'Presale',
+    name: 'Market Circulation',
     description:
-      '30% of Total Supply - The funds raised from the presale will primarily finance the initial stages of the project, including liquidity provision and initial development efforts.',
-    icon: BankNoteIcon,
-  },
-  {
-    name: 'Liquidity Pool',
-    description:
-      "50% of Total Supply - These tokens are allocated for market circulation, including public sales, liquidity provisioning, and other forms of distribution aimed at ensuring the token's widespread availability and liquidity",
+      "80% of Total Supply - These tokens are allocated for market circulation, including public sales, liquidity provisioning, and other forms of distribution aimed at ensuring the token's widespread availability and liquidity",
     icon: BankNoteIcon,
   },
   {

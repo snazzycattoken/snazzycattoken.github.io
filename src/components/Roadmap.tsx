@@ -13,7 +13,7 @@ const plans = [
     name: 'Phase 1',
     description: 'Launch and Foundation',
     features: [
-      'Presale of $SNZY tokens on PinkSale',
+      //'Presale of $SNZY tokens on PinkSale',
       'Launch of $SNZY on PancakeSwap',
       'Development of core features and initial market growth',
     ],
