@@ -33,8 +33,8 @@ export function Footer() {
             </div>
             <p className="flex w-full items-center gap-2">
               <EnvelopeIcon className="h-6 w-6 text-gray-400" />
-              <a href="mailto:snazzycattoken@gmail.com" className="text-sm">
-                snazzycattoken@gmail.com
+              <a href="mailto:team@snazzycattoken.com" className="text-sm">
+                team@snazzycattoken.com
               </a>
             </p>
             <nav className="mt-11 flex gap-8">
